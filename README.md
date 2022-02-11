@@ -1,3 +1,6 @@
+![I am 
+linkin2design](https://github.com/linkin2design/linkin2design/blob/main/fonted-devoloper.gif)
+
 <h1 align="center">Hi 👋, I'm Jahid Kamal Rafi</h1>
 <h3 align="center">Frontend Developer</h3>
 
